@@ -11,6 +11,8 @@ def read_document(path):
     if path.suffix == ".pdf":
         with pdfplumber.open(path) as pdf:
             text = "\n".join(page.extract_text() or "" for page in pdf.pages)
+            if len(text.split()) < 50 * len(pdf.pages):  # a normal page has hundreds of words
+                print(f"Warning: only {len(text.split())} words in {len(pdf.pages)} pages - {path} may be a scan, so citations will be missed")
     else:
         text = path.read_text(encoding="utf-8")
     return text
@@ -82,11 +84,11 @@ def keyword_overlap(claim, source_text):
 
 SUPPORTED = 0.8  # share of keywords that must appear in the source for a claim to count as supported
 
-def bucket(case, matched, missing, exact_quote):
+def bucket(case, matched, missing, exact_quote, threshold=SUPPORTED):
     if case is None:
         return "not_found"
     total = len(matched) + len(missing)
-    if exact_quote or (total and len(matched) / total >= SUPPORTED):
+    if exact_quote or (total and len(matched) / total >= threshold):
         return "verified"
     return "unverifiable_quote"
 
@@ -130,28 +132,62 @@ def same_citation(expected, extracted):
         return True
     return " v. " in expected and name_key(expected) == name_key(extracted)
 
-def evaluate(corpus, expected_path="eval/expected.csv"):
+def match_expected(corpus, expected_path="eval/expected.csv"):
     with open(expected_path, encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
     results_by_doc = {}
-    correct = 0
+    pairs = []
     for row in rows:
         doc = row["test_doc"]
         if doc not in results_by_doc:
             results_by_doc[doc] = check_document(document_path(doc), corpus)
         match = next((r for r in results_by_doc[doc] if same_citation(row["citation_text"], r["citation"])), None)
+        pairs.append((row, match))
+    return pairs
+
+def evaluate(corpus):
+    pairs = match_expected(corpus)
+    correct = 0
+    for row, match in pairs:
         got = match["bucket"] if match else "(not extracted)"
         ok = got == row["expected_bucket"]
         correct += ok
         print(f"{'PASS' if ok else 'MISS'}  expected {row['expected_bucket']:18} got {got:18} {row['citation_text'][:60]}")
         if not ok:
             print(f"      why it matters: {row['reason']}")
-    print(f"\n{correct}/{len(rows)} citations given the expected result")
+    print(f"\n{correct}/{len(pairs)} citations given the expected result")
+
+def bucket_at(match, threshold):
+    if match is None:
+        return "(not extracted)"
+    if match["bucket"] == "not_found":
+        return "not_found"  # not in the corpus, whatever the threshold
+    return bucket(True, match["matched"], match["missing"], match["exact_quote"], threshold)
+
+def sweep(corpus, thresholds=(0.5, 0.6, 0.7, 0.8, 0.9, 1.0)):
+    pairs = match_expected(corpus)
+    found = [(row, m) for row, m in pairs if m and m["bucket"] != "not_found"]  # only these depend on the threshold
+    print("Citations found in the corpus:")
+    for row, m in found:
+        total = len(m["matched"]) + len(m["missing"])
+        print(f"  {row['test_doc']:20} {row['citation_text'][:45]:45}  keywords {len(m['matched'])}/{total}"
+              f" ({len(m['matched']) / total:.0%}), exact text: {'yes' if m['exact_quote'] else 'no'}, expected {row['expected_bucket']}")
+    names = [f"{row['test_doc'].split('_')[0]}→{row['citation_text'].split(' v. ')[0][:8]}" for row, _ in found]
+    print(f"\n{'threshold':10} {'correct':8} " + " ".join(f"{n:20}" for n in names))
+    for t in thresholds:
+        correct = sum(bucket_at(m, t) == row["expected_bucket"] for row, m in pairs)
+        cells = []
+        for row, m in found:
+            got = bucket_at(m, t)
+            cells.append(f"{got + ('' if got == row['expected_bucket'] else ' x'):20}")
+        print(f"{t:<10.0%} {correct}/{len(pairs):<6} " + " ".join(cells))
 
 if __name__ == "__main__":
     corpus = load_corpus()
     if len(sys.argv) > 1 and sys.argv[1] == "eval":
         evaluate(corpus)
+    elif len(sys.argv) > 1 and sys.argv[1] == "sweep":
+        sweep(corpus)
     else:
         path = sys.argv[1] if len(sys.argv) > 1 else "test_docs/mata_brief.txt"
         print_results(path, check_document(path, corpus))
