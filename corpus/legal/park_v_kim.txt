@@ -1,0 +1,237 @@
+22-2057
+Park v. Kim
+United States Court of Appeals
+For the Second Circuit
+August Term 2023
+Submitted: December 15, 2023
+Decided: January 30, 2024
+No. 22-2057
+MINHYE PARK,
+Plaintiff-Appellant,
+v.
+DAVID DENNIS KIM,
+Defendant-Appellee,
+Appeal from the United States District Court
+for the Eastern District of New York
+No. 20CV02636, Pamela K. Chen, Judge.
+Before: PARKER, NATHAN, and MERRIAM, Circuit Judges.
+Plaintiff-Appellant Minhye Park appeals from an August 25, 2022, judgment
+of the United States District Court for the Eastern District of New York (Chen, J.)
+dismissing her action against Defendant-Appellee David Dennis Kim, pursuant to
+Rules 37 and 41(b) of the Federal Rules of Civil Procedure, for her persistent and
+knowing violation of court orders. The record demonstrates Park’s sustained and
+willful intransigence in spite of repeated warnings that failure to comply would
+result in the dismissal of the action. Accordingly, we AFFIRM the judgment of
+dismissal.
+We separately address the fact that Park’s counsel, Attorney Jae S. Lee, has
+admitted to citing a non-existent state court decision in her reply brief to this
+Court. Counsel reports that she relied on a generative artificial intelligence tool,
+ChatGPT, to identify precedent that might support her arguments, and did not
+read or otherwise confirm the validity of the (non-existent) decision she cited.
+Because this conduct falls well below the basic obligations of counsel, we refer
+Attorney Lee to the Court’s Grievance Panel, and further ORDER Attorney Lee to
+furnish a copy of this decision to her client.
+JAE S. LEE, JSL Law Offices P.C., Uniondale, NY,
+for Plaintiff-Appellant.
+ALEJANDRA R. GIL, Heidell, Pittoni, Murphy &
+Bach, LLP, White Plains, NY, for Defendant-Appellee.
+PER CURIAM:
+Plaintiff-Appellant Minhye Park appeals from the August 25, 2022,
+judgment of the United States District Court for the Eastern District of New York
+(Chen, J.) dismissing her action against Defendant-Appellee David Dennis Kim,
+pursuant to Rules 37 and 41(b) of the Federal Rules of Civil Procedure. We
+assume the parties’ familiarity with the underlying facts, procedural history, and
+issues on appeal, to which we refer only as necessary to explain our decision to
+affirm the District Court’s judgment.
+We separately address the conduct of Park’s counsel, Attorney Jae S. Lee.
+Lee’s reply brief in this case includes a citation to a non-existent case, which she
+admits she generated using the artificial intelligence tool ChatGPT. Because
+citation in a brief to a non-existent case suggests conduct that falls below the
+basic obligations of counsel, we refer Attorney Lee to the Court’s Grievance
+Panel, and further direct Attorney Lee to furnish a copy of this decision to her
+client, Plaintiff-Appellant Park.
+STANDARD OF REVIEW
+“We review a district court’s imposition of sanctions for abuse of
+discretion.” Wolters Kluwer Fin. Servs., Inc. v. Scivantage, 564 F.3d 110, 113 (2d
+Cir. 2009); see also Agiwal v. Mid Island Mortg. Corp., 555 F.3d 298, 302 (2d Cir.
+2009) (dismissal pursuant to Rule 37); Baptiste v. Sommers, 768 F.3d 212, 216 (2d
+Cir. 2014) (dismissal pursuant to Rule 41(b)).
+RULE 37 AND RULE 41(b)
+Rule 37 provides: “If a party . . . fails to obey an order to provide or permit
+discovery . . . the court where the action is pending may issue further just orders .
+. . [including] dismissing the action or proceeding in whole or in part.” Fed. R.
+Civ. P. 37(b)(2)(A)(v). Dismissal under Rule 37 is appropriate “only when a court
+finds willfulness, bad faith, or any fault” by the non-compliant litigant. Bobal v.
+Rensselaer Polytechnic Inst., 916 F.2d 759, 764 (2d Cir. 1990) (citation and
+quotation marks omitted). “Whether a litigant was at fault or acted willfully or in
+bad faith are questions of fact, and we review the District Court’s determinations
+for clear error.” Agiwal, 555 F.3d at 302.
+Several factors may be useful in evaluating a district court’s exercise
+of discretion to dismiss an action under Rule 37. These include: (1) the
+willfulness of the non-compliant party or the reason for
+noncompliance; (2) the efficacy of lesser sanctions; (3) the duration of
+the period of noncompliance, and (4) whether the non-compliant
+party had been warned of the consequences of . . . noncompliance.
+Id. (citation and quotation marks omitted).
+Rule 41(b) authorizes a district court to dismiss an action “[i]f the plaintiff
+fails to prosecute or to comply with [the] rules or a court order.” Fed. R. Civ. P.
+41(b). We consider five factors in reviewing a Rule 41(b) dismissal:
+(1) the duration of the plaintiff’s failure to comply with the court
+order, (2) whether plaintiff was on notice that failure to comply would
+result in dismissal, (3) whether the defendants are likely to be
+prejudiced by further delay in the proceedings, (4) a balancing of the
+court’s interest in managing its docket with the plaintiff’s interest in
+receiving a fair chance to be heard, and (5) whether the judge has
+adequately considered a sanction less drastic than dismissal.
+Lucas v. Miles, 84 F.3d 532, 535 (2d Cir. 1996).
+DISCUSSION
+Over the course of the litigation before the District Court, Park continually
+and willfully failed to respond to and comply with the District Court’s discovery
+orders. Magistrate Judge Bloom issued numerous discovery orders and provided
+ample warning to Park and her counsel that timely compliance was expected. For
+example, at a telephonic conference on August 11, 2021, Judge Bloom granted
+Kim’s motion to compel, warning Attorney Lee: “[Y]our client can be subject to
+sanctions, which could be as severe as dismissal of the case, if she fails to
+comply.” J. App’x at 81-82.1 On November 29, 2021, Judge Bloom again warned
+of the consequences of non-compliance, in no uncertain terms: “Plaintiff shall
+have one final opportunity to comply with the Court’s discovery Order . . . . This
+is a Court Order and plaintiff must comply. This is plaintiff’s last chance.” J.
+App’x at 7 (emphasis in original). In that same order, Judge Bloom set a briefing
+schedule for filing a motion to dismiss for non-compliance, should such a motion
+be necessary. Finally, having still not received the ordered discovery more than
+seven months after Judge Bloom’s August 2021 order, Kim moved to dismiss
+based on Park’s failure to comply with court orders and discovery obligations.
+See J. App’x at 292-93.
+1 The written order issued after that conference was also very clear: “This is a
+Court Order and plaintiff must comply. Plaintiff is warned that if she fails to
+comply with the Court’s Order to produce discovery, she may be subject to
+sanctions, which could include dismissal of this action.” J. App’x at 5 (emphasis
+in original).
+In her report and recommendation, Judge Bloom carefully considered all
+of the requirements of Rule 37 and Rule 41(b), including the availability of lesser
+sanctions, and concluded that dismissal was appropriate. Judge Chen, the
+presiding District Judge, reviewed Park’s objections to the report and
+recommendation in detail, overruled them, adopted the report and
+recommendation, and issued an order of dismissal on August 24, 2022.
+On appeal, Park reiterates her complaints about Kim’s alleged discovery
+abuses, as well as her conclusory assertion that she in fact complied with the
+relevant discovery orders. As Judge Bloom and Judge Chen found, these
+arguments are meritless, lack foundation in the record, and completely ignore
+the actual orders issued by Judge Bloom. Accordingly, we conclude that Park’s
+noncompliance amounted to “sustained and willful intransigence in the face of
+repeated and explicit warnings from the court that the refusal to comply with
+court orders . . . would result in the dismissal of [the] action.” Valentine v.
+Museum of Mod. Art, 29 F.3d 47, 50 (2d Cir. 1994). As such, we affirm the
+judgment of the District Court.
+PLAINTIFF’S IMPROPER BRIEFING BEFORE THIS COURT
+We must also address a separate matter concerning the conduct of Park’s
+counsel, Attorney Lee. Park’s reply brief in this appeal was initially due May 26,
+2023. After seeking and receiving two extensions of time, Attorney Lee filed a
+defective reply brief on July 25, 2023, more than a week after the extended due
+date. On August 1, 2023, this Court notified Attorney Lee that the late-filed brief
+was defective, and set a deadline of August 9, 2023, by which to cure the defect
+and resubmit the brief. Attorney Lee did not file a compliant brief, and on
+August 14, 2023, this Court ordered the defective reply brief stricken from the
+docket. Attorney Lee finally filed the reply brief on September 9, 2023.2
+The reply brief cited only two court decisions. We were unable to locate
+the one cited as “Matter of Bourguignon v. Coordinated Behavioral Health
+Servs., Inc., 114 A.D.3d 947 (3d Dep’t 2014).” Appellant’s Reply Br. at 6.
+Accordingly, on November 20, 2023, we ordered Park to submit a copy of that
+decision to the Court by November 27, 2023. On November 29, 2023, Attorney
+Lee filed a Response with the Court explaining that she was “unable to furnish a
+copy of the decision.” Response to November 20, 2023, Order of the Court, at 1,
+2 Attorney Lee filed the reply brief together with a motion to reconsider the
+Court’s prior order striking the non-compliant brief. The Court later granted that
+motion to reconsider and accepted the September 9, 2023, version of the reply
+brief.
+Park v. Kim, No. 22-2057-cv (2d Cir. Nov. 29, 2023), ECF No. 172 (hereinafter,
+“Response”). Although Attorney Lee did not expressly indicate as much in her
+Response, the reason she could not provide a copy of the case is that it does not
+exist – and indeed, Attorney Lee refers to the case at one point as “this non-existent case.” Id. at 2.
+Attorney Lee’s Response states:
+I encountered difficulties in locating a relevant case to establish a
+minimum wage for an injured worker lacking prior year income
+records for compensation determination . . . . Believing that applying
+the minimum wage to in injured worker in such circumstances under
+workers’ compensation law was uncontroversial, I invested
+considerable time searching for a case to support this position but was
+unsuccessful.
+. . .
+Consequently, I utilized the ChatGPT service, to which I am a
+subscribed and paying member, for assistance in case identification.
+ChatGPT was previously provided reliable information, such as
+locating sources for finding an antic furniture key. The case
+mentioned above was suggested by ChatGPT, I wish to clarify that I
+did not cite any specific reasoning or decision from this case.
+Id. at 1-2 (sic).
+All counsel that appear before this Court are bound to exercise
+professional judgment and responsibility, and to comply with the Federal Rules
+of Civil Procedure. Among other obligations, Rule 11 provides that by presenting
+a submission to the court, an attorney “certifies that to the best of the person’s
+knowledge, information, and belief, formed after an inquiry reasonable under
+the circumstances . . . the claims, defenses, and other legal contentions are
+warranted by existing law or by a nonfrivolous argument for extending,
+modifying, or reversing existing law or for establishing new law.” Fed. R. Civ. P.
+11(b)(2); see also N.Y. R. Pro. Conduct 3.3(a) (McKinney 2023) (“A lawyer shall
+not knowingly: (1) make a false statement of . . . law to a tribunal.”). “Rule
+11 imposes a duty on attorneys to certify that they have conducted a reasonable
+inquiry and have determined that any papers filed with the court are well
+grounded in fact, [and] legally tenable.” Cooter & Gell v. Hartmarx Corp., 496
+U.S. 384, 393 (1990). “Under Rule 11, a court may sanction an attorney for, among
+other things, misrepresenting facts or making frivolous legal arguments.”
+Muhammad v. Walmart Stores E., L.P., 732 F.3d 104, 108 (2d Cir. 2013) (per
+curiam).
+At the very least, the duties imposed by Rule 11 require that attorneys
+read, and thereby confirm the existence and validity of, the legal authorities on
+which they rely. Indeed, we can think of no other way to ensure that the
+arguments made based on those authorities are “warranted by existing law,”
+Fed. R. Civ. P. 11(b)(2), or otherwise “legally tenable.” Cooter & Gell, 496 U.S. at
+393. As a District Judge of this Circuit recently held when presented with non-existent precedent generated by ChatGPT: “A fake opinion is not ‘existing law’
+and citation to a fake opinion does not provide a non-frivolous ground for
+extending, modifying, or reversing existing law, or for establishing new law. An
+attempt to persuade a court or oppose an adversary by relying on fake opinions
+is an abuse of the adversary system.” Mata v. Avianca, Inc., No.
+22CV01461(PKC), 2023 WL 4114965, at *12 (S.D.N.Y. June 22, 2023).
+Attorney Lee states that “it is important to recognize that ChatGPT
+represents a significant technological advancement,” and argues that “[i]t would
+be prudent for the court to advise legal professionals to exercise caution when
+utilizing this new technology.” Response at 2. Indeed, several courts have
+recently proposed or enacted local rules or orders specifically addressing the use
+of artificial intelligence tools before the court.3 But such a rule is not necessary to
+3 See, e.g., Notice of Proposed Amendment to 5th Cir. R. 32.3, U.S. Ct. of Appeals
+for the Fifth Cir., https://www.ca5.uscourts.gov/docs/default-source/default-document-library/public-comment-local-rule-32-3-and-form-6
+[https://perma.cc/TD4F-WLV2] (Proposed addition to local rule: “[C]ounsel and
+unrepresented filers must further certify that no generative artificial intelligence
+program was used in drafting the document presented for filing, or to the extent
+such a program was used, all generated text, including all citations and legal
+analysis, has been reviewed for accuracy and approved by a human.”); E.D. Tex.
+Loc. R. AT-3(m) (“If the lawyer, in the exercise of his or her professional legal
+inform a licensed attorney, who is a member of the bar of this Court, that she
+must ensure that her submissions to the Court are accurate.
+Attorney Lee’s submission of a brief relying on non-existent authority
+reveals that she failed to determine that the argument she made was “legally
+tenable.” Cooter & Gell, 496 U.S. at 393. The brief presents a false statement of
+law to this Court, and it appears that Attorney Lee made no inquiry, much less
+the reasonable inquiry required by Rule 11 and long-standing precedent, into the
+validity of the arguments she presented. We therefore REFER Attorney Lee to
+the Court’s Grievance Panel pursuant to Local Rule 46.2 for further investigation,
+and for consideration of a referral to the Committee on Admissions and
+judgment, believes that the client is best served by the use of technology (e.g.,
+ChatGPT, Google Bard, Bing AI Chat, or generative artificial intelligence
+services), then the lawyer is cautioned that certain technologies may produce
+factually or legally inaccurate content and should never replace the lawyer’s
+most important asset – the exercise of independent legal judgment. If a lawyer
+chooses to employ technology in representing a client, the lawyer continues to be
+bound by the requirements of Federal Rule of Civil Procedure 11, Local Rule AT-3, and all other applicable standards of practice and must review and verify any
+computer-generated content to ensure that it complies with all such standards.”);
+Self-Represented Litigants (SRL), U.S. Dist. Ct. for the E. Dist. of Mo.,
+https://www.moed.uscourts.gov/self-represented-litigants-srl
+[https://perma.cc/Y7QG-VVEF] (“No portion of any pleading, written motion, or
+other paper may be drafted by any form of generative artificial intelligence. By
+presenting to the Court . . . a pleading, written motion, or other paper, self-represented parties and attorneys acknowledge they will be held responsible for
+its contents. See Fed. R. Civ. P. 11(b).”).
+Grievances. See 2d Cir. R. 46.2.
+We further ORDER Attorney Lee to provide a copy of this ruling to
+Plaintiff-Appellant Park – translated into Korean if necessary to permit Park to
+understand it – within twenty-one days, and to file a certification on the docket
+in this case attesting that she has done so.

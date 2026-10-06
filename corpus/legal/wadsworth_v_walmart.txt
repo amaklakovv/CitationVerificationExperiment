@@ -1,0 +1,170 @@
+WADSWORTH v. WALMART INC LLC (2025)
+United States District Court, D. Wyoming.
+Stephanie WADSWORTH, individually and as parent and legal guardian of W.W., K.W., G.W., and L.W., minor children, and Matthew Wadsworth, Plaintiffs, v. WALMART INC. and Jetson Electric Bikes, LLC, Defendants.
+
+Case No. 2:23-CV-118-KHR
+Decided: February 24, 2025
+Andrew Knopf, Pro Hac Vice, Paul Knopf Bigger, Winter Park, FL, Eitan Goldrosen, Pro Hac Vice, Timothy Michael Morgan, Pro Hac Vice, Keith R. Mitnik, Pro Hac Vice, Morgan and Morgan PA, Orlando, FL, Greyson M. Goody, Pro Hac Vice, Taly Goody, Goody Law Group, Palos Verdes Estates, CA, Josh Autry, Pro Hac Vice, Morgan & Morgan, Lexington, KY, Rudwin Ayala, Pro Hac Vice, Morgan & Morgan, PA, West Palm Beach, FL, for Plaintiffs. Christopher C. Voigt, Crowley Fleck, Billings, MT, Eugene M. LaFlamme, Pro Hac Vice, Jillian L. Lukens, Pro Hac Vice, McCoy Leavitt Laskey LLC, Waukesha, WI, Holly Lee Tysse, Timothy Michael Stubson, Brandon E. Pryde, Crowley Fleck PLLP, Casper, WY, Jared B. Giroux, Pro Hac Vice, McCoy Leavitt Laskey, Falmouth, ME, for Defendants.
+ORDER ON SANCTIONS AND OTHER DISCIPLINARY ACTION
+
+Before the Court is its Order to Show Cause Why Plaintiffs’ Attorneys Should Not Be Sanctioned or Other Disciplinary Action Should Not Issue. [ECF No. 156]. Plaintiffs’ attorneys have complied with the Court's Order and filed Responses. [ECF Nos. 167, 168, & 169]. The Court, having reviewed the filings, orders as follows:
+
+Background
+
+Legal research has improved over time, going from the use of digest books to online databases like Lexis and Westlaw. Litigators are beginning to make the jump from those databases into the world of Artificial Intelligence (“AI”). When done right, AI can be incredibly beneficial for attorneys and the public. Legal advocates will likely be able to quickly furnish on-point research and draft motions, which may save costs for the clients. Courts will be able to efficiently analyze briefs and make correct rulings, which may speed up the judicial process for litigants. Overall, technological advances have greatly accelerated our world, and AI will likely be no exception.
+
+However, the current state of AI has its shortcomings. The legal profession has been cautious to make a head-first dive partly because of a concept referred to as “AI Hallucinations.” A hallucination occurs when an AI database generates fake sources of information. To explain how this occurs:
+
+AI models are trained on data, and they learn to make predictions by finding patterns in the data. However, the accuracy of these predictions often depends on the quality and completeness of the training data. If the training data is incomplete, biased, or otherwise flawed, the AI model may learn incorrect patterns, leading to inaccurate predictions or hallucinations.1
+
+These hallucinations are not unique to the legal profession, as many scientific fields experience the same issue.2 The instant case is simply the latest reminder to not blindly rely on AI platforms’ citations regardless of profession.
+
+While technology continues to evolve, one thing remains the same—checking and verifying the source. Before the digital age, attorneys had to manually cross-reference case citations through books’ pocket parts to make sure the cite was still “good law.” Nowadays, that process has been simplified through databases’ signals. Yet one still cannot run a natural language or “Boolean” search through a database and immediately cite the highlighted excerpt that appears under a case. The researcher must still read the case to ensure the excerpt is existing law to support their propositions and arguments. After all, the excerpt could very well be a losing party's arguments, the court explaining an overruled case, dicta, etc. As attorneys transition to the world of AI, the duty to check their sources and make a reasonable inquiry into existing law remains unchanged.
+
+I. Procedural Facts
+
+With this context in mind, the Court now turns to the underlying facts. On January 22, 2025, Plaintiffs’ attorneys, Mr. Rudwin Ayala, Mr. T. Michael Morgan, and Ms. Taly Goody (collectively “Respondents”), filed Motions in Limine that cited nine cases, but eight did not exist. [ECF No. 141]. On February 6, 2025, the Court issued its Order to Show Cause Why Plaintiffs’ Attorneys Should Not Be Sanctioned or Other Disciplinary Action Should Not Issue (“Order to Show Cause”). See [ECF No. 156]. The following day, Plaintiffs withdrew the Motions in Limine. [ECF No. 158]. On February 10, 2025, Respondents admitted the cases were not real and hallucinated by an AI platform. [ECF No. 161]. On February 13, 2025, Respondents filed their Responses per the Court's Order. [ECF Nos. 167, 168, & 169]. The Court finds the Responses comply with its Order to Show Cause.
+
+II. Each Attorneys’ Respective Roles
+
+Mr. Ayala drafted the Motions in Limine at the direction of his supervisor, Mr. Morgan. [ECF No. 168, at 2, ¶ 8]. Mr. Morgan suggested to move to exclude a term that was used during a Plaintiff's deposition, but he otherwise had no involvement. Id. at 2, ¶ 9; [ECF No. 167, at 4, ¶ 11]. Ms. Goody, who is local counsel in this matter, was not involved in drafting the Motions in Limine. [ECF No. 168, at 2, ¶ 10]; [ECF No. 169, at 2, ¶ 8]. It appears Mr. Morgan and Ms. Goody were not provided a copy of the Motions to review prior to filing. [ECF No. 167, at 4, ¶ 14]. [ECF No. 168, at 2, ¶ 10]; [ECF No. 169, at 2, ¶ 9]. Nevertheless, all three attorneys affixed their e-signatures at the bottom of the Motions in Limine. See [ECF No. 141].
+
+III. How the Fake Cases Were Generated
+
+Mr. Ayala apparently drafted the Motions in Limine and uploaded the brief onto “MX2.law” to add case law. [ECF No. 168, at 2, ¶ 11]; [ECF No. 167-4, at 2, ¶ 3]. This website appears to be an in-house database launched by Mr. Ayala and Mr. Morgan's firm, Morgan & Morgan.3 [ECF No. 167-4, at 2, ¶ 3]. When Mr. Ayala uploaded the brief, he made the following inquiries:
+
+• “add to this Motion in Limine Federal Case law from Wyoming setting forth requirements for motions in limine”
+
+• “add more case law regarding motions in limine”
+
+• “Add a paragraph to this motion in limine that evidence or commentary regarding an improperly discarded cigarette starting the fire must be precluded because there is no actual evidence of this, and that amounts to an impermissible stacking of inferences and pure speculation. Include case law from federal court in Wyoming to support exclusion of this type of evidence.”
+
+• Similar requests to add more case law.
+
+[ECF No. 168, at 2, ¶ 11]. Mr. Ayala further states that this was his first time ever using AI in such a way. Id.
+
+These search inquiries apparently generated the fake cases. Without verifying their accuracy, Mr. Ayala included the fake cases in the Motions in Limine. Id. at 3, ¶¶ 13, 15. He first learned the cases were questionable when the Court entered the Order to Show Cause. Id. at 3, ¶ 14. Mr. Ayala admits that the cases are non-existent and his reliance on the AI platform was misplaced. Id. at 3, ¶ 15.
+
+IV. Remedial Steps
+
+Respondents took remedial steps after the issuance of the Order to Show Cause.4 Per Mr. Morgan's Response, Respondents have already taken the following steps to remediate the situation:
+
+• Promptly withdrawing the Motions in Limine;
+
+• Being honest and forthcoming about the use of AI;
+
+• Paying opposing counsels’ fees for defending the Motions in Limine; and
+
+• Implementing policies, safeguards, and training to prevent another occurrence in the future (and providing proof of such measures).
+
+See [ECF No. 167, at 2, ¶ 2]. The Court appreciates Respondents’ remedial steps, transparency, and apologetic sentiments. Hopefully situations like this do not become common for the judiciary, but should they occur again, the Court recommends attorneys should—at the very least—follow these steps to remediate the situation prior to the issuance of any sanction.
+
+Relevant Law
+
+An appellate court reviews a trial court's imposition of sanctions under Fed. R. Civ. P. 11 for abuse of discretion. Collins v. Daniels, 916 F.3d 1302, 1319 (10th Cir. 2019). Rule 11(b) provides in relevant part:
+
+By presenting to the court a pleading, written motion, or other paper—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances:
+
+․
+
+(2) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law ․
+
+At its core, an attorney who signs a legal document certifies that they have “read the document, [have] conducted a reasonable inquiry into the facts and the law and [are] satisfied that the document is well grounded in both, and is acting without any improper motive.” Bus. Guides, Inc. v. Chromatic Commc'ns Enters., Inc., 498 U.S. 533, 542, 111 S.Ct. 922, 112 L.Ed.2d 1140 (1991). A failure to comply with such obligations may result in a sanction. See Fed. R. Civ. P. 11(c).
+
+In determining whether sanctions are warranted, the trial court conducts two steps. Adamson v. Bowen, 855 F.2d 668, 672 (10th Cir. 1988). First, the trial court must find a filing violates Rule 11. Id. To find a Rule 11 violation, an attorney's conduct is evaluated based on “objective reasonableness.” Id. at 673. If a reasonable inquiry would result in finding the arguments are not warranted by existing law, then the document's filing violates Rule 11. Id. Second, if the conduct violates Rule 11, a court then imposes an appropriate sanction. Id. at 672.
+
+Ruling of the Court
+
+As set forth in more detail below, the Court finds the Respondents violated their obligation under Rule 11(b), and sanctions are warranted.
+
+I. Respondents’ Conduct Violates Rule 11(b)
+
+For the first step, the Court finds Respondents’ conduct violates Rule 11(b). “A fake opinion is not ‘existing law’ and citation to a fake opinion does not provide a non-frivolous ground for extending, modifying, or reversing existing law, or for establishing new law.” Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 461 (S.D.N.Y. 2023); see United States v. Hayes, No. 2:24-CR-0280-DJC, ––– F.Supp.3d ––––, –––– – ––––, 2025 WL 235531, at *7–8 (E.D. Cal. Jan. 17, 2025). Thus, using a fake opinion to support an argument is a violation of Rule 11(b)(2). See Mata, 678 F. Supp. 3d at 461. Because there is no dispute that Respondents cited fake cases in a signed motion, Respondents’ conduct violates Rule 11(b)(2).
+
+The Court notes that Mr. Morgan and Ms. Goody did not review the Motions prior to signing. However, Mr. Morgan and Ms. Goody do not contend Mr. Ayala signed their names without permission. It appears Mr. Morgan and Ms. Goody relied on Mr. Ayala's reputation and experience to comply with his Rule 11 obligations. [ECF No. 167, at 5, ¶ 17]; [ECF No. 167-3]; see [ECF No. 169, at 2, ¶ 4]. Nevertheless, this is inconsequential in determining whether a violation occurred.
+
+Signing a legal document ensures that the attorney read the document and conducted a reasonable inquiry into the existing law. See Bus. Guides, Inc., 498 U.S. at 542, 111 S.Ct. 922; see Adamson, 855 F.2d at 673 (“The attorney must ‘stop, look, and listen’ before signing a document subject to Rule 11.”) (quoting Lieb v. Topstone Industries, Inc., 788 F.2d 151, 157 (3d Cir. 1986)). This duty is a “nondelegable responsibility.” Pavelic & LeFlore v. Marvel Ent. Grp., 493 U.S. 120, 126, 110 S.Ct. 456, 107 L.Ed.2d 438 (1989). Thus, blind reliance on another attorney can be an improper delegation of this duty and a violation of Rule 11. See In re Kunstler, 914 F.2d 505, 514 (4th Cir. 1990) (affirming the district court's imposition of sanctions because the attorney's “reliance on others was indeed an improper delegation of his responsibility under Rule 11 to certify that the [filing] filed over his name was well grounded in fact and in law”); Unioil, Inc. v. E.F. Hutton & Co., 809 F.2d 548, 558 (9th Cir. 1986), overruled on other grounds by In re Keegan Mgmt. Co., Sec. Litig., 78 F.3d 431, 434 (9th Cir. 1996) (“An attorney who signs the pleading cannot simply delegate to forwarding co-counsel his duty of reasonable inquiry.”).
+
+Assuming arguendo that Mr. Morgan and Ms. Goody gave Mr. Ayala permission to sign at some point and not specifically for the Motions in Limine, they ran the risk of violating Rule 11. When an attorney gives another permission to sign on their behalf without reviewing the document, it is not only actionable under Rule 11 but also a possible violation of a state's ethical rule of competence. See In re Fischer, 176 Wis.2d 145, 499 N.W.2d 677, 678 (1993). Also assuming arguendo that Mr. Morgan and Ms. Goody never gave permission, they were aware of Mr. Ayala's practice of appending their signature to filings. This likewise constitutes a violation. Williams v. The Ests. LLC, 663 F. Supp. 3d 466, 478 (M.D.N.C. 2023) (finding violations of Rule 11(b)(2), (3) when an attorney served as a “rubber stamp” for pro hac vice attorney and failed to object to that attorney's practice of affixing his signature to filings). In short, Mr. Morgan's and Ms. Goody's failure to review the Motions in Limine prior to filing is inconsequential.
+
+If Mr. Morgan or Ms. Goody reviewed the Motions prior to signing (or giving permission to sign), there were signs the fake cases were procured in a peculiar way. For example, they could have noticed the cases were not in proper citation format. The hallucinated cases did not include any pinpoint citations. Further, an unpublished case that includes a Westlaw or Lexis identifier requires the full date. See, e.g., The Bluebook: A Uniform System of Citation B. 10.1.4(i). Here, the hallucinated cases only contain the court and the year. See [ECF No. 141]. While the Court acknowledges attorneys may not be privy to all the Bluebook or general citation rules, the full date appears when one copies and pastes “by reference” from Lexis or Westlaw. The hallucinations were certainly noticeable on the Motions’ face despite having no knowledge of the use of AI or Mr. Ayala's reputation.
+
+If Mr. Morgan or Ms. Goody made some inquiry into the Motions—let alone the law therein—this may be a closer call (although had they done so, they likely would have discovered the cases did not exist). Nevertheless, no inquiry cannot be deemed objectively reasonable even if the reliance is placed in an experienced attorney. See IBT Emp. Grp. Welfare Fund v. Compass Mins. Int'l, Inc., 723 F. Supp. 3d 1053, 1061 (D. Kan. 2024) (“[A] wholesale failure to investigate violates Rule 11(b)[.]”). Every attorney learned in their first-year contracts class that the failure to read a contract does not escape a signor of their contractual obligations. See generally 27 Williston on Contracts § 70:114 (4th ed. 2009 & Supp. 2024). Similarly, one who signs a motion or filing and fails to reasonably inspect the law cited therein violates Rule 11 by its express terms. Because Mr. Morgan or Ms. Goody did not conduct a reasonable inquiry into whether the legal contentions were supported by existing law, they violated Rule 11(b)(2).
+
+The key takeaway for attorneys is simple: make a reasonable inquiry into the law before signing (or giving another permission to sign) a document, as required by Rule 11. If an attorney does not do so, then they should not sign the document. However, if the attorney decides to risk not making reasonable inquiry into the existing law and signs, then they may be subject to sanctions.
+
+II. Sanctions
+
+For the second step, the court imposes sanctions. Adamson, 855 F.2d at 672. A finding of subjective bad faith is not required to impose sanctions. Burkhart ex rel. Meeks v. Kinsley Bank, 804 F.2d 588, 589–90 (10th Cir. 1986). “Rule 11 sanctions are meant to serve several purposes, including (1) deterring future litigation abuse, (2) punishing present litigation abuse, (3) compensating victims of litigation abuse, and (4) streamlining court dockets and facilitating case management.” White v. Gen. Motors Corp., 908 F.2d 675, 683 (10th Cir. 1990). An appropriate sanction should be the least severe sanction to adequately deter and punish. Id. at 684 (citing Doering v. Union Cnty. Bd. of Chosen Freeholders, 857 F.2d 191, 195 (3d Cir. 1988); Cabell v. Petty, 810 F.2d 463, 466–67 (4th Cir. 1987)).
+
+For guidance, the Court looks to other cases that have sanctioned attorneys for similar conduct. In Mata, the court ordered the attorneys to: (1) send a letter of the opinion and order on sanctions and the hearing transcript to their client; (2) send a letter of the opinion and order on sanctions and the hearing transcript to each judge falsely identified as an author of the fake cases; (3) provide the court with copies of the letters; and (4) pay a $5,000 fine. 678 F. Supp. 3d at 466. In Hayes, the court required the attorney to: (1) pay a $1,500 fine; (2) send copies of the order to bar counsel; and (3) serve a copy of the order to all the district judges and magistrate judges in that district. ––– F.Supp.3d at ––––, 2025 WL 235531, at *15.5 In Gauthier v. Goodyear Tire & Rubber Co., the court ordered the attorney to: (1) pay a $2,000 fine; (2) attend a generative AI continuing legal education course; and (3) provide a copy of the order to the client. No. 1:23-CV-281, 2024 WL 4882651, at *3 (E.D. Tex. Nov. 25, 2024).
+
+The Court is cognizant that the circumstances here are different than other cases issuing sanctions for submitting AI-generated fake opinions. On one hand, in Mata and Hayes, the attorneys initially misled the judges after discovery of the fake opinions and claimed the cases were real. Mata, 678 F. Supp. 3d at 449 (noting the attorneys did not admit that AI generated fake opinions until nearly three months later and misleading to court in the meantime); Hayes, ––– F.Supp.3d at ––––, 2025 WL 235531, at *10 (imposing sanctions when the attorney claimed the fake citations were an “inadvertent citation error”). Here, Respondents have been forthcoming, honest, and apologetic about their conduct. They also took steps to remediate the situation prior to the potential issuance of sanctions, as noted above.
+
+On the other hand, in Mata, the attorneys did not have databases like Westlaw and Lexis and primarily used a limited-access version of Fastcase 6 prior to using ChatGPT. 678 F. Supp. 3d at 456. Conversely, Mr. Morgan and Mr. Ayala are attorneys at a prominent national law firm with presumably deep resources.7 It is also well-known in the legal community that AI resources generate fake cases. With this in mind, the Court will determine appropriate sanctions for each attorney.
+
+A. Mr. Ayala
+
+As the drafter, Mr. Ayala will receive the highest sanction. First, the Court will revoke his pro hac vice status. “Admission pro hac vice is a privilege, and as such, the privilege may be revoked as a sanction for unethical behavior.” In re Complaint of PMD Enters. Inc., 215 F. Supp. 2d 519, 531 (D.N.J. 2002). In determining whether pro hac vice status should be revoked, a court balances “[1] society's interest in ethical conduct, [2] litigants’ right to choose their counsel, and [3] the hardship that disqualification would impose on the parties and the entire judicial process.” Rubio v. BNSF Ry. Co., 548 F. Supp. 2d 1220, 1224 (D.N.M. 2008).
+
+Here, the Court finds the interests weigh in favor of revocation. For the first factor, society's interest in avoiding the unethical behavior of citing fictitious cases is significant. As aptly noted by the court in Mata:
+
+Many harms flow from the submission of fake opinions. The opposing party wastes time and money in exposing the deception. The Court's time is taken from other important endeavors. The client may be deprived of arguments based on authentic judicial precedents. There is potential harm to the reputation of judges and courts whose names are falsely invoked as authors of the bogus opinions and to the reputation of a party attributed with fictional conduct. It promotes cynicism about the legal profession and the American judicial system. And a future litigant may be tempted to defy a judicial ruling by disingenuously claiming doubt about its authenticity.
+
+678 F. Supp. 3d at 448–49 (footnote omitted). Because of Mr. Ayala's oversight, Respondents’ clients essentially lost their opportunity to file meritorious motions in limine, as they withdrew their Motions. Without belaboring the point, society has an interest in attorneys’ ethical conduct, and Mr. Ayala's conduct fell short of that standard.
+
+In considering the second and third factors, it appears Plaintiffs anticipated this result. Initially, Mr. Ayala planned to be the only attorney to attend the Final Pretrial Conference. See [ECF No. 144]; [ECF No. 147] (granting Plaintiffs’ motion to excuse Mr. Morgan and Ms. Goody from attending the Final Pretrial Conference). After the Order to Show Cause was issued, Plaintiffs requested to excuse Mr. Ayala and substitute Mr. Morgan for the Final Pretrial Conference. [ECF No. 160]; [ECF No. 162] (granting this request). Mr. Morgan subsequently attended, along with another attorney of record. It is worth noting that Plaintiffs has at least five other attorneys in this case. Consequently, it appears Plaintiffs’ right to choose counsel has not been unfairly impacted, and the potential prejudice of revoking Mr. Ayala's pro hac vice status has greatly diminished. Therefore, the Court revokes Mr. Ayala's pro hac vice admission.
+
+Second, the Court will order Mr. Ayala to pay a three-thousand-dollar ($3,000) fine. The Court reaches this number by considering: (1) the number of hallucinated cases in the filing compared to real cases; (2) Mr. Ayala's apparent access to legal research resources; and (3) the fact that attorneys have been on notice of generative AI's issues in hallucinating cases for quite some time. A mitigating fact warranting a less severe punishment is Mr. Ayala's honesty and candor. Accordingly, the Court finds this sanction is the least severe punishment to deter future misconduct.
+
+B. Mr. Morgan
+
+Because Mr. Morgan was not the drafter, he will be sanctioned less severely. The Court will not revoke his pro hac vice admission. However, the Court will impose a sanction of a one-thousand-dollar ($1,000) fine. As noted above, he failed to adhere to his obligations under Rule 11. While his conduct is less severe than Mr. Ayala's, the imposition of a fine is the least severe punishment to deter future misconduct. See Massey v. Prince George's Cnty., 918 F. Supp. 905, 909 (D. Md. 1996) (sanctioning supervising attorneys for junior attorney's failure to cite controlling law). His reliance on Mr. Ayala's experience was understandable, but he still has a nondelegable duty to ensure a motion is supported by existing law.
+
+C. Ms. Goody
+
+The Court will also impose a sanction of a one-thousand-dollar ($1,000) fine on Ms. Goody. She serves as local counsel and sponsored Mr. Ayala's and Mr. Morgan's pro hac vice admissions. Even though she is technically local counsel, her firm is located in California. Ms. Goody has been barred in California since 2015 and in Wyoming since 2021. The Court observes that this is Ms. Goody's first and only appearance for a case in the District of Wyoming.
+
+Nevertheless, the imposition of a fine is the least severe punishment to deter future misconduct. Williams, 663 F. Supp. 3d at 484 (imposing a $2,500 fine for the local counsel for serving as a rubber stamp for attorney admitted pro hac vice); Long v. Quantex Res., Inc., 108 F.R.D. 416, 417 (S.D.N.Y. 1985), aff'd, 888 F.2d 1376 (2d Cir. 1989). Like Mr. Morgan, she also had a nondelegable duty to ensure a motion or filing is supported by existing law. Accordingly, her failure to comply with Rule 11 warrants a fine.
+
+D. The Law Firms
+
+“Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.” Fed. R. Civ. P. 11(c). This part of the rule came after the U.S. Supreme Court stated in Pavelic & LeFlore that individual attorneys are solely responsible for Rule 11 sanctions, not their firms. 493 U.S. at 126–27, 110 S.Ct. 456. In 1993, Rule 11 was amended to allow courts to issue sanctions on law firms if warranted. See Fed. R. 11, advisory committee's note to 1993 amendment. Notably absent is any definition of “exceptional circumstances.” See id.
+
+Because the Court finds Rule 11 violations against Respondents, it could theoretically require Respondents’ firms to show cause why they should not be sanctioned. Id. (“When appropriate, the court can make an additional inquiry in order to determine whether the sanction should be imposed on such ․ firms ․ in unusual circumstances, instead of the person actually making the presentation to the court.”). However, the Court will not do so.
+
+Here, Mr. Morgan submitted evidence showing that Morgan & Morgan trained its employees to not use the AI software in the way Mr. Ayala used it. [ECF No. 167-1]; [ECF No. 167-4, at 4, ¶ 9]. Since the Order to Show Cause, Morgan & Morgan has since implemented an additional acknowledgement prior to using its AI software that “[u]sers must independently verify” any AI-generated information before using or relying on it. [ECF No. 167-2]. The Court would have likely imposed sanctions similar to these measures. Thus, any further sanction would be greater than necessary.
+
+As for the Goody Law Firm,8 it likewise seems greater than necessary to impose additional sanctions. As noted above, Ms. Goody did not have any involvement in the Motions in Limine. Ms. Goody also stated that she does not use AI in her practice. Therefore, the law firms will not be ordered to show cause at this time.
+
+Conclusion
+
+An attorney who signs a document certifies they made a reasonable inquiry into the existing law. Fed. R. Civ. P. 11(b). While technology continues to change, this requirement remains the same. Because Respondents failed to make a reasonable inquiry into the law contained in a document they signed, sanctions are warranted. The Court issues the following sanctions pursuant to Rule 11 and the Court's inherent authority:
+
+IT IS ORDERED that Mr. Rudwin Ayala's pro hac vice admission is revoked. Mr. Ayala is removed as counsel of record. Plaintiffs will continue to be represented by all other attorneys of record.
+
+IT IS FURTHER ORDERED that Mr. Rudwin Ayala is hereby sanctioned a penalty of $3,000 and shall pay the amount into the Registry of this Court within fourteen days of this Order.
+
+IT IS FURTHER ORDERED that Mr. T. Michael Morgan is hereby sanctioned a penalty of $1,000 and shall pay the amount into the Registry of this Court within fourteen days of this Order.
+
+IT IS FURTHER ORDERED that Ms. Taly Goody is hereby sanctioned a penalty of $1,000 and shall pay the amount into the Registry of this Court within fourteen days of this Order.
+
+FOOTNOTES
+
+1.   What are AI Hallucinations?, Google Cloud, https://cloud.google.com/discover/what-are-ai-hallucinations.
+
+2.   E.g., Hussam Alkaissi & Samy I. McFarlane, Artificial Hallucinations in ChatGPT: Implications in Scientific Writing, Cureus (Feb. 19, 2023), https://www.cureus.com/articles/138667-artificial-hallucinations-in-chatgpt-implications-in-scientific-writing#!/.
+
+3.   The Order to Show Cause stated that “Defendants aver through counsel that ‘at least some of these mis-cited cases can be found on ChatGPT.’ ” [ECF No. 156, at 2]. It appears Plaintiffs’ attorneys did not use ChatGPT. As noted in the Order to Show Cause, Defendants uploaded a picture of a screenshot of ChatGPT identifying one of the cases. [ECF No. 150, at 3]. Defendants’ attorneys may have generated such a response based on its own input. “ChatGPT evaluates the entire conversation thread, enabling it to follow a train of thought. This means that when engaging in dialogue, each input builds upon previous statements, and the AI uses this contextual understanding to generate relevant and coherent responses.” What to Know About Generative AI Hallucinations in ChatGPT, Noble Desktop (Sept. 7, 2024), https://www.nobledesktop.com/learn/ai/what-to-know-about-generative-ai-hallucinations-in-chatgpt. In short, ChatGPT can generate a response based on the user's prior input within a thread.It is unclear whether Defendants included the entire thread in the picture. Thus, it is likewise unclear whether ChatGPT's response was based on prior inputs. Nevertheless, the Court finds that Plaintiffs’ attorneys have been honest and forthcoming throughout this situation, and there is no reason to question what AI platform they claim was used. The Court further finds Defendants did not attempt to be misleading by implying Plaintiffs’ attorneys used ChatGPT.
+
+4.   The Court notes that Plaintiffs could have acted more swiftly. On January 29, 2025, Defendants filed their response to the Motions in Limine, which highlighted the potential use of AI. [ECF No. 150]. It appears that Respondents did not discover their mistake until the Order to Show Cause issued on February 6, 2025. [ECF No. 168, at 3, ¶ 14]. Nevertheless, the Court acknowledges that attorneys are busy managing their caseloads, and the remedial steps taken after the Order to Show Cause are appreciated.
+
+5.   It is worth mentioning that the attorney in Hayes was not sanctioned according to Fed. R. Civ. P. 11 because it was a criminal case.
+
+6.   Fastcase is a legal research database that is free through membership of many states’ bar associations. See, e.g., New York State Bar Association, Fastcase, https://www.fastcase.com/bar_associations/newyork/.
+
+7.   The Court notes all of Mr. Ayala's other filings in this case appear to cite real cases. Many of those cases include Westlaw identifier cites. See, e.g., [ECF No. 123, at 15] (citing, among other published decisions, unpublished cases with the Westlaw identifier). Thus, it would appear Mr. Ayala had access to Westlaw at the very least.
+
+8.   The Court believes Ms. Goody's law firm is called “Goody Law Group” because that is the name used at the bottom of Plaintiffs’ filings. However, Ms. Goody identifies herself as “an attorney with Good Law Group, P.A.” in every motion for pro hac vice admission. [ECF Nos. 11, 13, 14, 49, 145, 153 & 171]. In any event, the Court is referring to Ms. Goody's firm.
+
+Kelly H. Rankin, United States District Judge
