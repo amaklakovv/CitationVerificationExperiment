@@ -55,7 +55,7 @@ def squash(text):
     return re.sub(r"[^a-z0-9]", "", text.lower())  # "678 F. Supp. 3d 443" -> "678fsupp3d443"
 
 def name_key(citation):
-    first_party, second_party = citation.split(" v. ", 1)
+    first_party, second_party = re.split(r"\s+v\.?\s+", citation, maxsplit=1)  # US "v." or Australian/NZ "v"
     return squash(first_party.split()[-1]), squash(second_party.split()[0])  # "Mata v. Avianca, Inc." -> ("mata", "avianca")
 
 def check_existence(citation, corpus):
@@ -121,10 +121,7 @@ def print_results(path, results):
             print(f"      keywords missing: {r['missing']}")
 
 def document_path(test_doc):
-    for folder in ["test_docs", "corpus/legal"]:
-        path = Path(folder) / f"{test_doc}.txt"
-        if path.exists():
-            return path
+    return Path("test_docs") / f"{test_doc}.txt"
 
 def same_citation(expected, extracted):
     numbers = re.search(r"\d+ [A-Za-z0-9. ']+? \d+\b", expected)  # e.g. "925 F.3d 1339"
