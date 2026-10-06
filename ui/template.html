@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Citation Checker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Citation Checker</h1>
+
+  <label for="doc">Choose a document to check</label>
+  <select id="doc">
+    <option value="">Select a document…</option>
+    {{OPTIONS}}
+  </select>
+
+  <label><input type="checkbox" id="show-eval"> Compare with the expected answers</label>
+
+  {{OUTPUTS}}
+
+  <div id="evaluation" hidden>
+    <h2>Evaluation</h2>
+    <p>For every test citation, the tool's answer compared with what the courts found. {{SCORE}}</p>
+    <table>
+      <tr><th>Result</th><th>Citation</th><th>Courts found</th><th>Tool said</th></tr>
+      {{EVAL_ROWS}}
+    </table>
+  </div>
+
+<script>
+  const doc = document.getElementById("doc");
+  doc.addEventListener("change", () => {
+    document.querySelectorAll(".output").forEach(output => output.hidden = output.id !== doc.value);
+  });
+  const showEval = document.getElementById("show-eval");
+  showEval.addEventListener("change", () => {
+    document.getElementById("evaluation").hidden = !showEval.checked;
+  });
+</script>
+</body>
+</html>

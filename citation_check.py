@@ -1,4 +1,5 @@
 import csv
+import html
 import re
 import sys
 from pathlib import Path
@@ -179,12 +180,54 @@ def sweep(corpus, thresholds=(0.5, 0.6, 0.7, 0.8, 0.9, 1.0)):
             cells.append(f"{got + ('' if got == row['expected_bucket'] else ' x'):20}")
         print(f"{t:<10.0%} {correct}/{len(pairs):<6} " + " ".join(cells))
 
+def esc(text):
+    return html.escape(str(text))
+
+def keywords(r):
+    if r["bucket"] == "not_found":
+        return ""
+    return f"matched: {', '.join(r['matched']) or 'none'} | missing: {', '.join(r['missing']) or 'none'}"
+
+def doc_title(path):
+    return path.stem.replace("_", " ").title().replace(" V ", " v. ")  # "park_v_kim" -> "Park v. Kim"
+
+def write_html(corpus):
+    sources = esc(" and ".join(case["name"] for case in corpus))
+    options, outputs = [], []
+    for i, path in enumerate(sorted(Path("test_docs").glob("*.txt"))):
+        options.append(f'<option value="doc-{i}">{esc(doc_title(path))}</option>')
+        rows = "".join(f"<tr><td>{LABELS[r['bucket']]}</td><td>{esc(r['citation'])}</td><td>{esc(keywords(r))}</td></tr>"
+                       for r in check_document(path, corpus))
+        outputs.append(f'<div class="output" id="doc-{i}" hidden><h2>Citations found in {esc(doc_title(path))}</h2>'
+                       f"<p>Each citation was looked up in the corpus of real cases ({sources}). "
+                       f"NOT FOUND means it isn't in the corpus, not that it's proven fake. "
+                       f"For cases that are found, the keywords show which parts of the quote appear in the real case.</p>"
+                       f"<table><tr><th>Result</th><th>Citation</th><th>Keywords</th></tr>{rows}</table></div>")
+
+    eval_rows, correct = [], 0
+    pairs = match_expected(corpus)
+    for row, match in pairs:
+        got = match["bucket"] if match else "(not extracted)"
+        ok = got == row["expected_bucket"]
+        correct += ok
+        eval_rows.append(f"<tr><td>{'PASS' if ok else 'MISS'}</td><td>{esc(row['citation_text'])}</td>"
+                         f"<td>{LABELS[row['expected_bucket']]}</td><td>{LABELS.get(got, got)}</td></tr>")
+
+    page = Path("ui/template.html").read_text(encoding="utf-8")
+    page = page.replace("{{OPTIONS}}", "".join(options)).replace("{{OUTPUTS}}", "".join(outputs))
+    page = page.replace("{{SCORE}}", f"{correct}/{len(pairs)} citations given the expected result")
+    page = page.replace("{{EVAL_ROWS}}", "".join(eval_rows))
+    Path("ui/results.html").write_text(page, encoding="utf-8")
+    print("Wrote ui/results.html - open it in a browser")
+
 if __name__ == "__main__":
     corpus = load_corpus()
     if len(sys.argv) > 1 and sys.argv[1] == "eval":
         evaluate(corpus)
     elif len(sys.argv) > 1 and sys.argv[1] == "sweep":
         sweep(corpus)
+    elif len(sys.argv) > 1 and sys.argv[1] == "html":
+        write_html(corpus)
     else:
         path = sys.argv[1] if len(sys.argv) > 1 else "test_docs/mata_brief.txt"
         print_results(path, check_document(path, corpus))
