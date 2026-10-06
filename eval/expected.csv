@@ -11,3 +11,4 @@ park_v_kim,"Mata v. Avianca, Inc., No. 22CV01461(PKC), 2023 WL 4114965, at *12 (
 wadsworth_v_walmart,"Mata v. Avianca, Inc., 678 F. Supp. 3d 443, 461 (S.D.N.Y. 2023)",verified,Accurate quote; pinpoint page 461 matches *461 in the corpus text
 wadsworth_v_walmart,678 F. Supp. 3d at 448–49,verified,"Short-form citation (no case name) for a near-verbatim block quote of Mata's ""Many harms"" paragraph"
 wadsworth_v_walmart,"Collins v. Daniels, 916 F.3d 1302, 1319 (10th Cir. 2019)",unverifiable_quote,"Control: real case cited by a real court but deliberately left out of the corpus; a corpus-only check will wrongly report not_found"
+mata_brief,"El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng, 525 U.S. 155, 161 (1999)",unverifiable_quote,"Real Supreme Court case, but the Mata opinion found it ""does not contain the quoted language"" (fabricated quote attributed to a real source)"
